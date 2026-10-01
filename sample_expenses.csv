@@ -1,0 +1,31 @@
+date,category,amount,note
+2025-02-01,Food,120.00,Breakfast at canteen
+2025-02-03,Transport,50.00,Bus pass top-up
+2025-02-05,Books,350.00,Data Structures textbook
+2025-02-07,Food,85.00,Lunch
+2025-02-10,Entertainment,200.00,Movie ticket
+2025-02-12,Health,450.00,Pharmacy – vitamins
+2025-02-14,Food,150.00,Valentine's day dinner
+2025-02-16,Transport,80.00,Auto fare
+2025-02-18,Other,300.00,Stationery supplies
+2025-02-20,Rent,4500.00,February hostel rent
+2025-02-22,Food,95.00,Snacks
+2025-02-24,Books,220.00,Python programming guide
+2025-02-26,Entertainment,350.00,Concert tickets
+2025-02-28,Food,110.00,Dinner with friends
+2025-03-01,Food,130.00,Canteen lunch
+2025-03-03,Transport,60.00,Rickshaw
+2025-03-05,Books,180.00,Notebook bundle
+2025-03-08,Health,600.00,Doctor consultation
+2025-03-10,Food,200.00,Groceries
+2025-03-12,Entertainment,150.00,Streaming subscription
+2025-03-14,Rent,4500.00,March hostel rent
+2025-03-16,Transport,45.00,Metro card recharge
+2025-03-18,Other,500.00,Haircut and toiletries
+2025-03-20,Food,175.00,Pizza night
+2025-03-22,Books,400.00,Algorithms textbook
+2025-04-01,Food,140.00,Canteen breakfast + lunch
+2025-04-03,Transport,70.00,Cab to college
+2025-04-05,Entertainment,250.00,Weekend outing
+2025-04-07,Rent,4500.00,April hostel rent
+2025-04-09,Health,320.00,Pharmacy
